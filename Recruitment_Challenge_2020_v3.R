@@ -3,7 +3,7 @@
 # Date last edited: 20/5/2020
 # Manager: Steve Buckman
 # Deliverables:
-#  - 2020 predicted demand for FY (section 5) - DONE
+#  - 2020 predicted demand for FY (section 5)
 #  - Daily electricity demand for past 4 weeks (exported in section 4)
 #  - Visualisation of electricity demand over specified period to historical average (using functions)
 
